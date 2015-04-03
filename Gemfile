@@ -14,6 +14,8 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin]
 gem 'bootstrap-sass', '~> 3.3.3'
 gem "paperclip", "~> 4.2"
 gem 'coffee-script-source', '1.8.0'
+gem "paperclip-dropbox", ">= 1.1.7"
+gem "figaro"
 
 
 group :production do
